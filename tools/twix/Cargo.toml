@@ -35,6 +35,8 @@ log = { workspace = true }
 mlua = { workspace = true }
 nalgebra = { workspace = true }
 parameters = { workspace = true }
+partial = { workspace = true }
+partial_derive = { workspace = true }
 projection = { workspace = true }
 repository = { workspace = true }
 serde = { workspace = true }

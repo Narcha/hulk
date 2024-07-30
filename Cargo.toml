@@ -35,6 +35,8 @@ members = [
   "crates/opn",
   "crates/parameter_tester",
   "crates/parameters",
+  "crates/partial",
+  "crates/partial_derive",
   "crates/path_serde",
   "crates/path_serde_derive",
   "crates/projection",
@@ -146,6 +148,8 @@ opn = { path = "crates/opn" }
 opusfile-ng = "0.1.0"
 ordered-float = "3.1.0"
 parameters = { path = "crates/parameters" }
+partial = { path = "crates/partial" }
+partial_derive = { path = "crates/partial_derive" }
 parking_lot = "0.12.1"
 path_serde = { path = "crates/path_serde" }
 path_serde_derive = { path = "crates/path_serde_derive" }
